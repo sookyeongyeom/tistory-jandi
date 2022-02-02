@@ -1,0 +1,11 @@
+/* calendar */
+.calendar {-ms-user-select: none;-moz-user-select: -moz-none;-khtml-user-select: none;-webkit-user-select: none;user-select: none;}
+.calendar .tt-calendar {margin-top:8%;margin-bottom:10%;width:280px !important;border-collapse:collapse;}
+.calendar .tt-calendar caption {font-size:1em;margin-bottom:10px;height:100%}
+.calendar .tt-calendar caption a:first-child, .calendar .tt-calendar caption a:last-child {color:#DB8EB5; font-size:0.375em}
+.calendar .tt-calendar caption a {vertical-align:middle;color:black;}
+.calendar .tt-calendar th, .calendar .tt-calendar td {padding:5px 0; text-align:center;}
+.calendar .tt-calendar th {display:none;}
+.calendar .tt-calendar td {font-size:1.3em; color:#bbb;}
+.calendar .tt-calendar .cal_click {display:inline-block; padding:2px 8px; border-radius:2px;}
+.calendar .tt-calendar td a {display:inline-block; padding:2px 8px; background:#E0E0E0; color:#E0E0E0; border-radius:2px;}
